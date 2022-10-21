@@ -1,4 +1,4 @@
-package com.kimhd.hdhd;
+package com.soccer.deploy;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
